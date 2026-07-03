@@ -7,7 +7,10 @@
     <Description>
         Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata) and virtual machines (live snapshots, cold backups) with full, incremental, and differential backup types. Supports local, SMB, NFS and SFTP storage destinations. Features job scheduling, retention policies, real-time progress monitoring, and a web-based management UI.
     </Description>
-    <MinVer>7.2.0</MinVer>
+    <Overview>
+        Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata) and virtual machines (live snapshots, cold backups) with full, incremental, and differential backup types. Supports local, SMB, NFS and SFTP storage destinations. Features job scheduling, retention policies, real-time progress monitoring, and a web-based management UI.
+    </Overview>
+    <MinVer>7.0.0</MinVer>
     <Project>https://github.com/ruaan-deysel/vault</Project>
     <Support>https://forums.unraid.net/topic/197786-plugin-vault-backup-manager</Support>
     <Icon>https://raw.githubusercontent.com/ruaan-deysel/vault/main/plugin/icon.png</Icon>

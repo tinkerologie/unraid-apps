@@ -15,4 +15,7 @@
   <WebPage>https://github.com/ruaan-deysel/unraid-apps</WebPage>
   <!-- Primary support thread (Vault); the Management Agent has its own thread linked from its template -->
   <Forum>https://forums.unraid.net/topic/197786-plugin-vault-backup-manager</Forum>
+  <!-- Sponsorship -->
+  <DonateLink>https://github.com/sponsors/ruaan-deysel</DonateLink>
+  <DonateText>Sponsor my Unraid plugin development</DonateText>
 </CommunityApplications>

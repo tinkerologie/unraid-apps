@@ -7,6 +7,9 @@
     <Description>
         Monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
     </Description>
+    <Overview>
+        Monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
+    </Overview>
     <MinVer>7.2.0</MinVer>
     <Project>https://github.com/ruaan-deysel/unraid-management-agent</Project>
     <Support>https://forums.unraid.net/topic/196675-plugin-unraid-management-agent</Support>

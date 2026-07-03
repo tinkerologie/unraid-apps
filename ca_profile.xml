@@ -1,0 +1,18 @@
+<CommunityApplications>
+  <!-- Required profile -->
+  <Profile>
+    Unraid plugins by Ruaan Deysel, built for home servers and self-hosters:
+
+    **Vault Backup Manager** — back up and restore Docker containers, virtual machines, folders, and the flash drive with full, incremental, and differential chains. Supports local, SMB, NFS, SFTP, WebDAV, and S3 destinations, deduplication, encryption, scheduling, retention policies, and a real-time web UI.
+
+    **Unraid Management Agent** — monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT, with Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
+
+    Support is handled per plugin: use the Unraid forum thread linked on each app, or open an issue on the matching GitHub project ([vault](https://github.com/ruaan-deysel/vault), [unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent)).
+  </Profile>
+  <!-- Maintainer icon -->
+  <Icon>https://github.com/ruaan-deysel.png</Icon>
+  <!-- Repository home -->
+  <WebPage>https://github.com/ruaan-deysel/unraid-apps</WebPage>
+  <!-- Primary support thread (Vault); the Management Agent has its own thread linked from its template -->
+  <Forum>https://forums.unraid.net/topic/197786-plugin-vault-backup-manager</Forum>
+</CommunityApplications>

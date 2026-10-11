@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
     <Name>Vault</Name>
-    <PluginURL>https://raw.githubusercontent.com/ruaan-deysel/vault/main/plugin/vault.plg</PluginURL>
+    <PluginURL>https://raw.githubusercontent.com/tinkerologie/vault/main/plugin/vault.plg</PluginURL>
     <PluginAuthor>Ruaan Deysel</PluginAuthor>
     <Category>Backup:</Category>
     <Description>
@@ -11,8 +11,8 @@
         Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata), virtual machines (live snapshots, cold backups), folders, and the flash drive with full, incremental, and differential backup chains. Supports local, SMB, NFS, SFTP, WebDAV, and S3 storage destinations with deduplication, encryption, and backup verification. Features job scheduling, retention policies, automatic retries, anomaly detection, real-time progress monitoring, and a web-based management UI.
     </Overview>
     <MinVer>7.0.0</MinVer>
-    <Project>https://github.com/ruaan-deysel/vault</Project>
+    <Project>https://github.com/tinkerologie/vault</Project>
     <Support>https://forums.unraid.net/topic/197786-plugin-vault-backup-manager</Support>
-    <Icon>https://raw.githubusercontent.com/ruaan-deysel/vault/main/plugin/icon.png</Icon>
+    <Icon>https://raw.githubusercontent.com/tinkerologie/vault/main/plugin/icon.png</Icon>
     <License>MIT License - Copyright 2026 Ruaan Deysel</License>
 </Plugin>

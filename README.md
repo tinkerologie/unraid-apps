@@ -5,8 +5,8 @@ Community Apps repository for Unraid plugins by [Ruaan Deysel](https://github.co
 #### Layout
 
 - `ca_profile.xml` — repository profile for Community Apps
-- `plugins/vault.xml` — [Vault Backup Manager](https://github.com/ruaan-deysel/vault)
-- `plugins/unraid-management-agent.xml` — [Unraid Management Agent](https://github.com/ruaan-deysel/unraid-management-agent)
+- `plugins/vault.xml` — [Vault Backup Manager](https://github.com/tinkerologie/vault)
+- `plugins/unraid-management-agent.xml` — [Unraid Management Agent](https://github.com/tinkerologie/unraid-management-agent)
 
 #### Support
 

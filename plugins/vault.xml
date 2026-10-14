@@ -4,9 +4,6 @@
     <PluginURL>https://raw.githubusercontent.com/tinkerologie/vault/main/plugin/vault.plg</PluginURL>
     <PluginAuthor>Ruaan Deysel</PluginAuthor>
     <Category>Backup:</Category>
-    <Description>
-        Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata), virtual machines (live snapshots, cold backups), folders, and the flash drive with full, incremental, and differential backup chains. Supports local, SMB, NFS, SFTP, WebDAV, and S3 storage destinations with deduplication, encryption, and backup verification. Features job scheduling, retention policies, automatic retries, anomaly detection, real-time progress monitoring, and a web-based management UI.
-    </Description>
     <Overview>
         Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata), virtual machines (live snapshots, cold backups), folders, and the flash drive with full, incremental, and differential backup chains. Supports local, SMB, NFS, SFTP, WebDAV, and S3 storage destinations with deduplication, encryption, and backup verification. Features job scheduling, retention policies, automatic retries, anomaly detection, real-time progress monitoring, and a web-based management UI.
     </Overview>
